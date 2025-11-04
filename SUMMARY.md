@@ -1,5 +1,7 @@
 # Table of contents
 
+* [Recommendation Dashboard](https://developers.spideo.tv/)
+
 ## MGX Recommendation
 
 * [Recommendation](README.md)
