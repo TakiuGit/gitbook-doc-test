@@ -12,7 +12,7 @@ GET /users/{user}/recommendation/{universes}
 
 More details on the API documentation
 
-### [​](https://spideo-dev-manual.mintlify.app/mgx-recommendation/features/personalization#use-case)Use case <a href="#use-case" id="use-case"></a>
+### (https://spideo-dev-manual.mintlify.app/mgx-recommendation/features/personalization#use-case)Use case <a href="#use-case" id="use-case"></a>
 
 The “recommended for you” line is as versatile as it is classical, it can be integrated anywhere :
 
