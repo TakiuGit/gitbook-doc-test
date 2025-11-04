@@ -7,3 +7,17 @@
 * [Personalization](mgx-recommendation/personalization/README.md)
   * [Live tv habits](mgx-recommendation/personalization/live-tv-habits.md)
   * [Personalization](mgx-recommendation/personalization/personalization.md)
+
+***
+
+* ```yaml
+  type: builtin:openapi
+  props:
+    models: true
+    downloadLink: true
+  dependencies:
+    spec:
+      ref:
+        kind: openapi
+        spec: spideo-test-api
+  ```

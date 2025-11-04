@@ -9,7 +9,7 @@ description: >-
 
 ### Getting started
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><h3><i class="fa-rocket">:rocket:</i></h3></td><td><strong>Integration</strong></td><td>Setup your integration with  MGX  recommendation.</td></tr><tr><td><h3><i class="fa-hand-holding-heart">:hand-holding-heart:</i></h3></td><td><strong>Feature tour</strong></td><td>Learns about the recommendations features.</td></tr><tr><td><h3><i class="fa-code">:code:</i></h3></td><td><strong>API Reference</strong></td><td>Learn about the recommendation APIs.</td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h3><i class="fa-rocket">:rocket:</i></h3></td><td><strong>Integration</strong></td><td>Setup your integration with  MGX  recommendation.</td><td><a href="mgx-recommendation/personalization/">personalization</a></td></tr><tr><td><h3><i class="fa-hand-holding-heart">:hand-holding-heart:</i></h3></td><td><strong>Feature tour</strong></td><td>Learns about the recommendations features.</td><td><a href="mgx-recommendation/personalization/">personalization</a></td></tr><tr><td><h3><i class="fa-code">:code:</i></h3></td><td><strong>API Reference</strong></td><td>Learn about the recommendation APIs.</td><td></td></tr></tbody></table>
 
 ### Key capabilities
 
