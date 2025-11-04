@@ -9,6 +9,7 @@
 * [Personalization](mgx-recommendation/personalization/README.md)
   * [Live tv habits](mgx-recommendation/personalization/live-tv-habits.md)
   * [Personalization](mgx-recommendation/personalization/personalization.md)
+  * [Semantic Explanations](mgx-recommendation/personalization/semantic-explanation.md)
 * APIs
   * ```yaml
     type: builtin:openapi
