@@ -2,7 +2,6 @@
 description: >-
   Your data is protected by multiple layers of security. Spideo adapts to your
   specifications.
-icon: lock
 coverY: 0
 layout:
   width: default
